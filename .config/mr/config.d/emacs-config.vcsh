@@ -1,2 +1,3 @@
 [$HOME/.config/vcsh/repo.d/emacs-config.git]
 checkout = vcsh clone git://github.com/Meroje/emacs-config.git
+
