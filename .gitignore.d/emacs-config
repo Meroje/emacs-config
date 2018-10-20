@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/config.d
+!/.config/mr/config.d/emacs-config.vcsh
+!/.config/mr/config.d/spacemacs.git
+!/.gitignore.d
+!/.gitignore.d/emacs-config
+!/.spacemacs
